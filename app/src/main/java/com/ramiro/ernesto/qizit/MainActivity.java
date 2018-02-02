@@ -1,5 +1,9 @@
 package com.ramiro.ernesto.qizit;
 
+/**
+ * @author Diego
+ */
+
 import java.util.Locale;
 
 import android.content.Intent;
